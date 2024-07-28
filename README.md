@@ -1,2 +1,2 @@
-# learn_terraform
+# terraform_projects
 This repository contains terraform projects.
